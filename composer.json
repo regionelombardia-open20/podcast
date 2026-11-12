@@ -1,5 +1,6 @@
 {
     "name": "open2/podcast",
+    "license": "GPL-3.0-or-later",
     "description": "Podcast",
     "type": "component",
     "keywords": [
